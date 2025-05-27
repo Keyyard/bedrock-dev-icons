@@ -1,0 +1,239 @@
+{
+  "iconDefinitions": {
+    "basic_folder": {
+      "iconPath": "./icons/basic_folder.png"
+    },
+    "aim_assist": {
+      "iconPath": "./icons/BP/aim_assist.png"
+    },
+    "animation_controllers": {
+      "iconPath": "./icons/BP/animation_controllers.png"
+    },    "animations": {
+      "iconPath": "./icons/BP/animations.png"
+    },
+    "biomes": {
+      "iconPath": "./icons/BP/biomes.png"
+    },
+    "blocks": {
+      "iconPath": "./icons/BP/blocks.png"
+    },
+    "cameras": {
+      "iconPath": "./icons/BP/cameras.png"
+    },
+    "dialogue": {
+      "iconPath": "./icons/BP/dialogue.png"
+    },
+    "entities": {
+      "iconPath": "./icons/BP/entities.png"
+    },
+    "feature_rules": {
+      "iconPath": "./icons/BP/feature_rules.png"
+    },
+    "features": {
+      "iconPath": "./icons/BP/features.png"
+    },
+    "functions": {
+      "iconPath": "./icons/BP/functions.png"
+    },
+    "item_catalog": {
+      "iconPath": "./icons/BP/item_catalog.png"
+    },
+    "items": {
+      "iconPath": "./icons/BP/items.png"
+    },
+    "loot_tables": {
+      "iconPath": "./icons/BP/loot_tables.png"
+    },
+    "presets": {
+      "iconPath": "./icons/BP/presets.png"
+    },
+    "recipes": {
+      "iconPath": "./icons/BP/recipes.png"
+    },
+    "scripts": {
+      "iconPath": "./icons/BP/scripts.png"
+    },
+    "texts": {
+      "iconPath": "./icons/BP/texts.png"
+    },
+    "trading": {
+      "iconPath": "./icons/BP/trading.png"
+    },
+    "worldgen": {
+      "iconPath": "./icons/BP/worldgen.png"
+    },
+    "spawn_rules": {
+      "iconPath": "./icons/BP/entities.png"
+    },
+    "structures": {
+      "iconPath": "./icons/BP/worldgen.png"
+    },
+    "economy_trades": {
+      "iconPath": "./icons/BP/trading.png"
+    },
+    "jigsaw_structures": {
+      "iconPath": "./icons/BP/worldgen.png"
+    },
+    "processors": {
+      "iconPath": "./icons/BP/worldgen.png"
+    },
+    "structure_sets": {
+      "iconPath": "./icons/BP/worldgen.png"
+    },
+    "template_pools": {
+      "iconPath": "./icons/BP/worldgen.png"
+    },
+    "rp_animation_controllers": {
+      "iconPath": "./icons/RP/animation_controllers.png"
+    },
+    "rp_animations": {
+      "iconPath": "./icons/RP/animations.png"
+    },
+    "attachables": {
+      "iconPath": "./icons/RP/attachables.png"
+    },
+    "entity": {
+      "iconPath": "./icons/RP/entity.png"
+    },
+    "fogs": {
+      "iconPath": "./icons/RP/fogs.png"
+    },
+    "font": {
+      "iconPath": "./icons/RP/fonts.png"
+    },
+    "fonts": {
+      "iconPath": "./icons/RP/fonts.png"
+    },
+    "rp_items": {
+      "iconPath": "./icons/RP/items.png"
+    },
+    "materials": {
+      "iconPath": "./icons/RP/materials.png"
+    },
+    "models": {
+      "iconPath": "./icons/RP/models.png"
+    },
+    "particles": {
+      "iconPath": "./icons/RP/particles.png"
+    },
+    "render_controllers": {
+      "iconPath": "./icons/RP/particles.png"
+    },
+    "sounds": {
+      "iconPath": "./icons/RP/sounds.png"
+    },
+    "rp_texts": {
+      "iconPath": "./icons/RP/texts.png"
+    },
+    "textures": {
+      "iconPath": "./icons/RP/textures.png"
+    },
+    "environment": {
+      "iconPath": "./icons/RP/textures.png"
+    },
+    "overworld_cubemap": {
+      "iconPath": "./icons/RP/textures.png"
+    },
+    "particle": {
+      "iconPath": "./icons/RP/particles.png"
+    },
+    "ui": {
+      "iconPath": "./icons/RP/textures.png"
+    },
+    "languages": {
+      "iconPath": "./icons/RP/texts.png"
+    }
+  },  
+  "folderNames": {
+    "aim_assist": "aim_assist",
+    "animation_controllers": "animation_controllers",
+    "animations": "animations",
+    "biomes": "biomes",
+    "blocks": "blocks",
+    "cameras": "cameras",
+    "dialogue": "dialogue",
+    "entities": "entities",
+    "feature_rules": "feature_rules",
+    "features": "features",
+    "functions": "functions",
+    "item_catalog": "item_catalog",
+    "items": "items",
+    "loot_tables": "loot_tables",
+    "presets": "presets",
+    "recipes": "recipes",
+    "scripts": "scripts",
+    "texts": "texts",
+    "trading": "trading",
+    "worldgen": "worldgen",
+    "spawn_rules": "spawn_rules",
+    "structures": "structures",
+    "economy_trades": "economy_trades",
+    "jigsaw_structures": "jigsaw_structures",
+    "processors": "processors",
+    "structure_sets": "structure_sets",
+    "template_pools": "template_pools",
+    "attachables": "attachables",
+    "entity": "entity",
+    "fogs": "fogs",
+    "font": "font",
+    "fonts": "fonts",
+    "materials": "materials",
+    "models": "models",
+    "particles": "particles",
+    "render_controllers": "render_controllers",
+    "sounds": "sounds",
+    "textures": "textures",
+    "environment": "environment",
+    "overworld_cubemap": "overworld_cubemap",
+    "particle": "particle",
+    "ui": "ui",
+    "languages": "languages"
+  },
+  "folderNamesExpanded": {
+    "aim_assist": "aim_assist",
+    "animation_controllers": "animation_controllers",
+    "animations": "animations",
+    "biomes": "biomes",
+    "blocks": "blocks",
+    "cameras": "cameras",
+    "dialogue": "dialogue",
+    "entities": "entities",
+    "feature_rules": "feature_rules",
+    "features": "features",
+    "functions": "functions",
+    "item_catalog": "item_catalog",
+    "items": "items",
+    "loot_tables": "loot_tables",
+    "presets": "presets",
+    "recipes": "recipes",
+    "scripts": "scripts",
+    "texts": "texts",
+    "trading": "trading",
+    "worldgen": "worldgen",
+    "spawn_rules": "spawn_rules",
+    "structures": "structures",
+    "economy_trades": "economy_trades",
+    "jigsaw_structures": "jigsaw_structures",
+    "processors": "processors",
+    "structure_sets": "structure_sets",
+    "template_pools": "template_pools",
+    "attachables": "attachables",
+    "entity": "entity",
+    "fogs": "fogs",
+    "font": "font",
+    "fonts": "fonts",
+    "materials": "materials",
+    "models": "models",
+    "particles": "particles",
+    "render_controllers": "render_controllers",
+    "sounds": "sounds",
+    "textures": "textures",
+    "environment": "environment",
+    "overworld_cubemap": "overworld_cubemap",
+    "particle": "particle",
+    "ui": "ui",
+    "languages": "languages"
+  },
+  "folder": "basic_folder",
+  "folderExpanded": "basic_folder"
+}

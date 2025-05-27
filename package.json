@@ -1,0 +1,51 @@
+{
+  "name": "bedrock-dev-icons",
+  "displayName": "Bedrock Dev Icons",
+  "description": "A pixelated VS Code icon theme pack designed for Minecraft Bedrock Addon developers. This pack custom folder icons for structured addon development.",
+  "version": "0.0.1",
+  "publisher": "keyyard",
+  "engines": {
+    "vscode": "^1.100.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "minecraft",
+    "bedrock",
+    "addon",
+    "icons",
+    "theme",
+    "pixelated"
+  ],
+  "contributes": {
+    "iconThemes": [
+      {
+        "id": "bedrock-dev-icons",
+        "label": "Bedrock Dev Icons",
+        "path": "./icon-theme.json"
+      }
+    ]
+  },
+  "scripts": {
+    "vscode:prepublish": "npm run compile",
+    "compile": "tsc -p ./",
+    "watch": "tsc -watch -p ./",
+    "package": "vsce package",
+    "publish": "vsce publish"
+  },
+  "devDependencies": {
+    "@types/node": "^20.x",
+    "@types/vscode": "^1.100.0",
+    "typescript": "^5.0.0",
+    "@vscode/vsce": "^2.24.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/keyyard/bedrock-dev-icons.git"
+  },
+  "homepage": "https://github.com/keyyard/bedrock-dev-icons",
+  "bugs": {
+    "url": "https://github.com/keyyard/bedrock-dev-icons/issues"
+  }
+}

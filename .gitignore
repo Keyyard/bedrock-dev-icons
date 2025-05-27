@@ -1,0 +1,21 @@
+node_modules/
+.vscode/
+*.vsix
+out/
+dist/
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Keep test workspace structure but ignore specific files
+test-workspace/**/*.json
+test-workspace/**/*.mcfunction
+test-workspace/**/*.png
+!test-workspace/**/
+!test-workspace/**/.gitkeep
