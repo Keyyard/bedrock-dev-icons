@@ -21,3 +21,21 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
   - `sounds`, `texts`, `textures`, `ui`
 - Default folder icon for unspecified folders
 - Comprehensive icon theme configuration
+
+## [0.0.2] - 2025-05-28
+
+### Added
+- VS Code default file icon integration for complete icon theme experience
+- Custom file icons for Minecraft-specific files (.mcfunction, .lang, manifest.json)
+- Extension icon (logo) for better marketplace presentation
+- Enhanced file type recognition for common development files
+
+### Changed
+- Updated description to better reflect the complete icon theme functionality
+- Now provides both custom folder icons AND VS Code's default file icons
+- Improved compatibility as a standalone icon theme
+
+### Enhanced
+- Better integration with VS Code's icon system
+- More comprehensive file type coverage
+- Professional extension presentation with logo

@@ -139,11 +139,144 @@
     },
     "ui": {
       "iconPath": "./icons/RP/textures.png"
-    },
-    "languages": {
+    },    "languages": {
       "iconPath": "./icons/RP/texts.png"
-    }
-  },  
+    },
+    "_file": {
+      "iconPath": "$(file)"
+    },
+    "_json": {
+      "iconPath": "$(json)"
+    },
+    "_js": {
+      "iconPath": "$(javascript)"
+    },
+    "_typescript": {
+      "iconPath": "$(typescript)"
+    },
+    "_image": {
+      "iconPath": "$(image)"
+    },
+    "_markdown": {
+      "iconPath": "$(markdown)"
+    },
+    "_txt": {
+      "iconPath": "$(text)"
+    },
+    "_xml": {
+      "iconPath": "$(xml)"
+    },
+    "_html": {
+      "iconPath": "$(html)"
+    },
+    "_css": {
+      "iconPath": "$(css)"
+    },
+    "_sass": {
+      "iconPath": "$(sass)"
+    },
+    "_less": {
+      "iconPath": "$(less)"
+    },
+    "_python": {
+      "iconPath": "$(python)"
+    },
+    "_java": {
+      "iconPath": "$(java)"
+    },
+    "_cpp": {
+      "iconPath": "$(cpp)"
+    },
+    "_c": {
+      "iconPath": "$(c)"
+    },
+    "_csharp": {
+      "iconPath": "$(csharp)"
+    },
+    "_php": {
+      "iconPath": "$(php)"
+    },
+    "_ruby": {
+      "iconPath": "$(ruby)"
+    },
+    "_go": {
+      "iconPath": "$(go)"
+    },
+    "_rust": {
+      "iconPath": "$(rust)"
+    },
+    "_swift": {
+      "iconPath": "$(swift)"
+    },
+    "_kotlin": {
+      "iconPath": "$(kotlin)"
+    },
+    "_dart": {
+      "iconPath": "$(dart)"
+    },
+    "_vue": {
+      "iconPath": "$(vue)"
+    },
+    "_react": {
+      "iconPath": "$(react)"
+    },
+    "_react_ts": {
+      "iconPath": "$(react_ts)"
+    },
+    "_yaml": {
+      "iconPath": "$(yaml)"
+    },
+    "_toml": {
+      "iconPath": "$(toml)"
+    },
+    "_settings": {
+      "iconPath": "$(settings)"
+    },
+    "_log": {
+      "iconPath": "$(log)"
+    },
+    "_git": {
+      "iconPath": "$(git)"
+    },
+    "_docker": {
+      "iconPath": "$(docker)"
+    },
+    "_nodejs": {
+      "iconPath": "$(nodejs)"
+    },
+    "_tsconfig": {
+      "iconPath": "$(tsconfig)"
+    },
+    "_webpack": {
+      "iconPath": "$(webpack)"
+    },
+    "_gulp": {
+      "iconPath": "$(gulp)"
+    },
+    "_grunt": {
+      "iconPath": "$(grunt)"
+    },
+    "_readme": {
+      "iconPath": "$(readme)"
+    },
+    "_changelog": {
+      "iconPath": "$(changelog)"
+    },
+    "_license": {
+      "iconPath": "$(license)"
+    },
+    "_manifest": {
+      "iconPath": "$(json)"
+    },
+    "_pack_icon": {
+      "iconPath": "$(image)"
+    },
+    "_bp": {
+      "iconPath": "./icons/BP/BP.png"
+    },
+    "_rp": {
+      "iconPath": "./icons/RP/RP.png"
+    },  },  
   "folderNames": {
     "aim_assist": "aim_assist",
     "animation_controllers": "animation_controllers",
@@ -232,8 +365,96 @@
     "overworld_cubemap": "overworld_cubemap",
     "particle": "particle",
     "ui": "ui",
-    "languages": "languages"
-  },
+    "languages": "languages"  },
   "folder": "basic_folder",
-  "folderExpanded": "basic_folder"
+  "folderExpanded": "basic_folder",
+  "file": "_file",
+  "fileExtensions": {
+    "json": "_json",
+    "js": "_js",
+    "ts": "_typescript",
+    "png": "_image",
+    "jpg": "_image",
+    "jpeg": "_image",
+    "gif": "_image",
+    "svg": "_image",
+    "md": "_markdown",
+    "txt": "_txt",
+    "xml": "_xml",
+    "html": "_html",
+    "css": "_css",
+    "scss": "_sass",
+    "sass": "_sass",
+    "less": "_less",
+    "py": "_python",
+    "java": "_java",
+    "cpp": "_cpp",
+    "c": "_c",
+    "cs": "_csharp",
+    "php": "_php",
+    "rb": "_ruby",
+    "go": "_go",
+    "rs": "_rust",
+    "swift": "_swift",
+    "kt": "_kotlin",
+    "dart": "_dart",
+    "vue": "_vue",
+    "jsx": "_react",
+    "tsx": "_react_ts",
+    "yml": "_yaml",
+    "yaml": "_yaml",
+    "toml": "_toml",
+    "ini": "_settings",
+    "cfg": "_settings",
+    "conf": "_settings",
+    "log": "_log",
+    "gitignore": "_git",
+    "gitattributes": "_git",
+    "dockerfile": "_docker",
+    "mcfunction": "_mcfunction",
+    "mcmeta": "_mcmeta",
+    "lang": "_lang"
+  },
+  "fileNames": {
+    "package.json": "_nodejs",
+    "tsconfig.json": "_tsconfig",
+    "webpack.config.js": "_webpack",
+    "gulpfile.js": "_gulp",
+    "gruntfile.js": "_grunt",
+    ".gitignore": "_git",
+    ".gitattributes": "_git",
+    "README.md": "_readme",
+    "CHANGELOG.md": "_changelog",
+    "LICENSE": "_license",
+    "manifest.json": "_manifest",
+    "pack_icon.png": "_pack_icon",
+    "behavior_packs": "_bp",
+    "resource_packs": "_rp"
+  },
+  "languageIds": {
+    "json": "_json",
+    "javascript": "_js",
+    "typescript": "_typescript",
+    "markdown": "_markdown",
+    "python": "_python",
+    "java": "_java",
+    "cpp": "_cpp",
+    "c": "_c",
+    "csharp": "_csharp",
+    "php": "_php",
+    "ruby": "_ruby",
+    "go": "_go",
+    "rust": "_rust",
+    "swift": "_swift",
+    "kotlin": "_kotlin",
+    "dart": "_dart",
+    "vue": "_vue",
+    "javascriptreact": "_react",
+    "typescriptreact": "_react_ts",
+    "yaml": "_yaml",
+    "toml": "_toml",
+    "ini": "_settings",
+    "log": "_log",
+    "dockerfile": "_docker"
+  }
 }

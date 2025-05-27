@@ -1,8 +1,9 @@
 {
   "name": "bedrock-dev-icons",
+  "icon": "icon.png",
   "displayName": "Bedrock Dev Icons",
-  "description": "A pixelated VS Code icon theme pack designed for Minecraft Bedrock Addon developers. This pack custom folder icons for structured addon development.",
-  "version": "0.0.1",
+  "description": "A pixelated icon theme for Minecraft Bedrock Addon developers featuring custom folder icons with VS Code's default file icons for the best development experience.",
+  "version": "0.0.2",
   "publisher": "keyyard",
   "engines": {
     "vscode": "^1.100.0"
@@ -16,7 +17,16 @@
     "addon",
     "icons",
     "theme",
-    "pixelated"
+    "pixelated",
+    "block",
+    "command",
+    "datapack",
+    "dp",
+    "icon-theme",
+    "mc",
+    "mcf",
+    "mcfunction",
+    "resourcepack"
   ],
   "contributes": {
     "iconThemes": [
