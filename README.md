@@ -3,20 +3,6 @@
 <div align="center">
   <img src="icon.png" alt="Bedrock Dev Icons" width="128" height="128">
   
-  **A pixelated VS Code icon theme for Minecraft Bedrock Addon developers**
-  
-  [![Version](https://img.shields.io/badge/version-0.0.2-blue.svg)](https://github.com/keyyard/bedrock-dev-icons)
-  [![VS Code](https://img.shields.io/badge/VS%20Code-1.100.0+-green.svg)](https://code.visualstudio.com/)
-  [![License](https://img.shields.io/badge/license-MIT-orange.svg)](LICENSE)
-</div>
-
----
-
-# Bedrock Dev Icons
-
-<div align="center">
-  <img src="icon.png" alt="Bedrock Dev Icons" width="128" height="128">
-  
   **Finally, a VS Code that speaks Minecraft! 🎮**
   
   [![Version](https://img.shields.io/badge/version-0.0.2-blue.svg)](https://github.com/keyyard/bedrock-dev-icons)
