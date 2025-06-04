@@ -1,7 +1,7 @@
 # Bedrock Dev Icons
 
 <div align="center">
-  <img src="medias/banner.png" alt="Bedrock Dev Icons">
+  <img src="medias/banner.png" alt="Bedrock Dev Icons" width="128" height="128">
   
   **Finally, a VS Code that speaks Minecraft! 🎮**
   
